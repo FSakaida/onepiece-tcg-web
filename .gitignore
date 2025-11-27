@@ -4,3 +4,14 @@ onepiece-import/.env
 .DS_Store
 onepiece-backend/.DS_Store
 onepiece-import/.DS_Store
+
+venv/
+onepiece-backend/venv/
+onepiece-import/venv/
+__pycache__/
+*.pyc
+
+node_modules/
+onepiece-frontend/node_modules/
+dist/
+onepiece-frontend/dist/
